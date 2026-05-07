@@ -1,2 +1,3 @@
 # Mario-5-FPV-Drone
 This is a high speed FPV drone system designed to land and fly mostly autonomously. The goal is to build an agile, fast and autonomous FPV drone system capable of lifting sensors or other objects and autonomously flying. This has applications in moving methane gas sensors in sewers to find methane leaks in the environment. This will be controlled by an elrs reciver with a radiomaster for optimal range, along with a long range vtx to transmit video. The drone will also be equipped with GPS so it can navigate.
+<img width="3024" height="4032" alt="Turn into jpg" src="https://github.com/user-attachments/assets/28238ba9-99eb-4e53-a3ed-6105791ad065" />
